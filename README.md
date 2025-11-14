@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://github.com/Nataxshaa/nataxshaa/blob/main/images/Linkedin%20banner%20simples%20preto%20e%20branco.png?raw=true" alt="Banner do Perfil">
-</p>
-
-<h1 align="center">Seja bem-vindo! :)</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&gradient=FFC0CB,FF69B4,FF1493"/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC0CB&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Agatha;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nataxshaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
