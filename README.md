@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=F8E2CF&section=header&descAlign=93&descAlignY=82"/>
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC0CB&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Agatha;Seja+bem-vindo!+:%29)
 
@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=F8E2CF&section=footer&descAlign=93&descAlignY=82"/>
 
 ---
 
