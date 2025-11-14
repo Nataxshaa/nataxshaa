@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LINK_PARA_SEU_BANNER.png_ou.gif" alt="Banner do Perfil">
+  <img src="https://github.com/Nataxshaa/nataxshaa/blob/main/images/Linkedin%20banner%20simples%20preto%20e%20branco.png?raw=true" alt="Banner do Perfil">
 </p>
 
 <h1 align="center">Seja bem-vindo! :)</h1>
