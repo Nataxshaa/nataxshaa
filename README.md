@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&gradient=FFC0CB,FF69B4,FF1493"/>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC0CB&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Agatha;Seja+bem-vindo!+:%29)
 
 <p align="center">
