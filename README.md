@@ -1,4 +1,4 @@
-
+![Cobrinha de Contribuição Rosa](https://github-contribution-snake.vercel.app/api?user=Natashaa&color_dots=FFC0CB&color_snake=C71585)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC0CB&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Agatha;Seja+bem-vindo!+:%29)
 
