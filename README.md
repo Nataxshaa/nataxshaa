@@ -79,14 +79,15 @@ Oi! Me chamo Ágatha Natasha, tenho 20 anos e sou estudante de Engenharia de Sof
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nataxshaa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+  
 </p>
 
+<br clear="both"/>
 
-### 📫 Como me encontrar:
+#### 📫 Como me encontrar:
 
-<p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1gatha-vieira-7645b5348/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agathaaa.vieira@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Nataxshaa)
-</p>>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1gatha-vieira-7645b5348/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agathaaa.vieira@gmail.com)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Nataxshaa)
+
+
