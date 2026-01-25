@@ -18,6 +18,7 @@ Oi! Me chamo Ágatha Natasha, tenho 20 anos e sou estudante de Engenharia de Sof
 #### 📊 Estatísticas 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nataxshaa&show_icons=true&theme=tokyonight"/>
+  <br>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nataxshaa&layout=compact&theme=tokyonight"/>
 </div>
 
