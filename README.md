@@ -4,14 +4,16 @@ Oi! Me chamo Ágatha Natasha, tenho 20 anos e sou estudante de Engenharia de Sof
 
 📚 Atualmente, meu foco é fortalecer a base em programação e explorar áreas como automação, sistemas e machine learning, unindo lógica, criatividade e resolução de problemas.
 
-🛠️ Tecnologias & Conhecimentos
-  - Python — utilização em treinamento de modelos, automação e resolução de problemas, com foco em lógica e análise de dados.
-  - Node.js — estudos em andamento para desenvolvimento backend, explorando conceitos como servidores, rotas, requisições e respostas.
-  - C e C++ — aplicados em programação competitiva, com ênfase em estruturas de dados, algoritmos e eficiência.
-  - JavaScript — manipulação de lógica, interação com o DOM e consumo de APIs
-  - HTML5 & CSS3 — estruturação e estilização de interfaces responsivas
-
-
+#### 🛠️ Tecnologias & Conhecimentos
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+</div>
 ***
 ### 📫 Como me encontrar:
 
