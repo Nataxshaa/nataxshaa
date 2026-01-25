@@ -2,7 +2,7 @@
 ***
 Oi! Me chamo Ágatha Natasha, tenho 20 anos e sou estudante de Engenharia de Software na Universidade de Brasília (UnB).Minha jornada na tecnologia começou no meu primeiro console.log("Hello World") — e desde então, a curiosidade virou paixão. Gosto de entender como as coisas funcionam por trás do código e estou em constante desenvolvimento, sempre buscando evoluir técnica e pessoalmente.
 
-Atualmente, meu foco é fortalecer a base em programação e explorar áreas como automação, sistemas e machine learning, unindo lógica, criatividade e resolução de problemas.
+📚 Atualmente, meu foco é fortalecer a base em programação e explorar áreas como automação, sistemas e machine learning, unindo lógica, criatividade e resolução de problemas.
 
 🛠️ Tecnologias & Conhecimentos
   - Python — utilização em treinamento de modelos, automação e resolução de problemas, com foco em lógica e análise de dados.
