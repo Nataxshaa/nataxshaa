@@ -14,6 +14,7 @@ Oi! Me chamo Ágatha Natasha, tenho 20 anos e sou estudante de Engenharia de Sof
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
 </div>
+
 ***
 
 ### 📫 Como me encontrar:
