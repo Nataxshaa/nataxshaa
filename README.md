@@ -1,21 +1,6 @@
+## 👩🏻‍💻 Ágatha Natasha 
+***
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC0CB&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Agatha;Seja+bem-vindo!+:%29)
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nataxshaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nataxshaa&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
-### Linguagens e Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  </p>
-
-![Cobrinha de Contribuição Rosa](https://github-contribution-snake.vercel.app/api?user=Natashaa&color_dots=FFC0CB&color_snake=C71585)
 
 ---
 
