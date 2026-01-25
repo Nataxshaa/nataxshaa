@@ -7,12 +7,11 @@ Minha jornada na tecnologia começou no meu primeiro console.log("Hello World") 
 Atualmente, meu foco é fortalecer a base em programação e explorar áreas como automação, sistemas e machine learning, unindo lógica, criatividade e resolução de problemas.
 
 🛠️ Tecnologias & Conhecimentos
-
-Python — utilização em treinamento de modelos, automação e resolução de problemas, com foco em lógica e análise de dados.
-Node.js — estudos em andamento para desenvolvimento backend, explorando conceitos como servidores, rotas, requisições e respostas.
-C e C++ — aplicados em programação competitiva, com ênfase em estruturas de dados, algoritmos e eficiência.
-JavaScript — manipulação de lógica, interação com o DOM e consumo de APIs
-HTML5 & CSS3 — estruturação e estilização de interfaces responsivas
+  - Python — utilização em treinamento de modelos, automação e resolução de problemas, com foco em lógica e análise de dados.
+  - Node.js — estudos em andamento para desenvolvimento backend, explorando conceitos como servidores, rotas, requisições e respostas.
+  - C e C++ — aplicados em programação competitiva, com ênfase em estruturas de dados, algoritmos e eficiência.
+  - JavaScript — manipulação de lógica, interação com o DOM e consumo de APIs
+  - HTML5 & CSS3 — estruturação e estilização de interfaces responsivas
 
 
 ***
