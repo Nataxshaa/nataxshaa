@@ -16,12 +16,22 @@ Oi! Me chamo Ágatha Natasha, tenho 20 anos e sou estudante de Engenharia de Sof
 </div>
 
 #### 📊 Estatísticas 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nataxshaa&show_icons=true&theme=tokyonight)
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Nataxshaa&show_icons=true&theme=dracula"
+        height="170"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nataxshaa&layout=compact&theme=dracula"
+        height="170"
+      />
+    </td>
+  </tr>
+</table>
 
 ***
 
