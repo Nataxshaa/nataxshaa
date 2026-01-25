@@ -82,6 +82,7 @@ Oi! Me chamo Ágatha Natasha, tenho 20 anos e sou estudante de Engenharia de Sof
 
 </p>
 
+***
 
 ### 📫 Como me encontrar:
 
