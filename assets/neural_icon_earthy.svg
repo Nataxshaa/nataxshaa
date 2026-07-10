@@ -1,0 +1,41 @@
+<svg width="100%" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="node" cx="35%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#f3e5d8"/>
+      <stop offset="55%" stop-color="#c8863b"/>
+      <stop offset="100%" stop-color="#7a2e2e"/>
+    </radialGradient>
+  </defs>
+  <g stroke="#a5502e" stroke-width="1" opacity="0.55">
+    <line x1="30" y1="40" x2="110" y2="20"/>
+    <line x1="30" y1="40" x2="110" y2="70"/>
+    <line x1="30" y1="40" x2="110" y2="120"/>
+    <line x1="30" y1="110" x2="110" y2="20"/>
+    <line x1="30" y1="110" x2="110" y2="70"/>
+    <line x1="30" y1="110" x2="110" y2="120"/>
+    <line x1="30" y1="180" x2="110" y2="20"/>
+    <line x1="30" y1="180" x2="110" y2="70"/>
+    <line x1="30" y1="180" x2="110" y2="120"/>
+    <line x1="110" y1="20" x2="190" y2="70"/>
+    <line x1="110" y1="70" x2="190" y2="70"/>
+    <line x1="110" y1="120" x2="190" y2="70"/>
+  </g>
+  <g>
+    <circle cx="30" cy="40" r="7" fill="url(#node)"/>
+    <circle cx="30" cy="110" r="7" fill="url(#node)"/>
+    <circle cx="30" cy="180" r="7" fill="url(#node)"/>
+    <circle cx="110" cy="20" r="7" fill="url(#node)"/>
+    <circle cx="110" cy="70" r="7" fill="url(#node)"/>
+    <circle cx="110" cy="120" r="7" fill="url(#node)"/>
+    <circle cx="190" cy="70" r="9" fill="url(#node)"/>
+    <circle r="4" fill="#f3e5d8">
+      <animateMotion dur="2.4s" repeatCount="indefinite" path="M 30 110 L 110 70 L 190 70"/>
+    </circle>
+    <circle r="4" fill="#f3e5d8">
+      <animateMotion dur="2.8s" repeatCount="indefinite" begin="1s" path="M 30 40 L 110 120 L 190 70"/>
+    </circle>
+    <circle r="4" fill="#f3e5d8">
+      <animateMotion dur="3.1s" repeatCount="indefinite" begin="1.6s" path="M 30 180 L 110 20 L 190 70"/>
+    </circle>
+  </g>
+</svg>
