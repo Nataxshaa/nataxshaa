@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/class_me.svg" width="500" />
+  <img src="./assets/class_me.svg" width="580" />
 </p>
