@@ -4,7 +4,7 @@
 
 <table>
 <td width="35%" valign="top">
-<img src="./assets/neural_icon_earthy.svg" width="100%" />
+<img src="./assets/class_me.svg" width="100%" />
 </td>
 </tr>
 </table>
