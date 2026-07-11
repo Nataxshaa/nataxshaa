@@ -11,14 +11,14 @@
 ### `$ cd projects/ && ls`
 
 <details>
-<summary>📋 <b>hackathon-participa-df/</b> — organização de dados públicos e privados</summary>
+<summary>📋 <b>hackathon-participa-df/</b> — Organização e Tratamento de dados</summary>
 <br>
 
 Hackathon promovido pelo **Participa DF**:
 - Estruturação e organização de uma planilha unificando dados públicos e privados do governo
 - Foco em tornar a informação mais acessível e navegável para consulta
 
-`stack:` Planilhas · Estruturação de dados
+`stack:` Python · Regex · Estrutura de dados
 </details>
 
 <details>
@@ -36,11 +36,11 @@ Hackathon promovido pelo **Sindisei DF**:
 <summary>🚁 <b>edra/</b> — autonomia de drones para missões específicas</summary>
 <br>
 
-Projeto do laboratório **EDRA**, na frente de visão computacional:
+ Frente de visão computacional:
 - Voo autônomo de drones capazes de identificar bases durante a missão
 - Treinamento de modelo de deep learning para detecção das bases
 - Criação de um dataset sintético próprio para reforçar o treinamento
 
-`stack:` Deep Learning · Visão Computacional · Dataset sintético
+`stack:` Deep Learning · Visão Computacional · Dataset sintético · Python 
 </details>
 
