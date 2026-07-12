@@ -30,5 +30,5 @@
     <circle cx="1020" cy="151" r="2"><animate attributeName="opacity" values="1;0.2;1" dur="2.3s" repeatCount="indefinite"/></circle>
   </g>
   <text x="600" y="80" text-anchor="middle" font-family="'Courier New', monospace" font-size="40" font-weight="bold" fill="#f3e5d8" letter-spacing="3">ÁGATHA NATASHA</text>
-  <text x="600" y="112" text-anchor="middle" font-family="'Courier New', monospace" font-size="17" fill="#c8863b">&gt; AI · dados · competitive programming</text>
+  <text x="600" y="112" text-anchor="middle" font-family="'Courier New', monospace" font-size="17" fill="#c8863b">&gt; AI · Data Engineering · competitive programming</text>
 </svg>
