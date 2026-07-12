@@ -10,7 +10,7 @@
 ### 🚀 What I've Been Building
 
 <details>
-<summary><b>🚁 Autonomous Drone Vision</b> — EDRA • Computer Vision Team</summary>
+<summary>🚁 Autonomous Drone Vision — EDRA • Computer Vision Team</summary>
 
 <br>
 
@@ -23,7 +23,7 @@ Development of a complete computer vision pipeline for autonomous drones, includ
 </details>
 
 <details>
-<summary><b>🏙️ Sensitive Data Classification Pipeline</b> — ParticipaDF Hackathon</summary>
+<summary>🏙️ Sensitive Data Classification Pipeline — ParticipaDF Hackathon</summary>
 
 <br>
 
@@ -36,7 +36,7 @@ Collaborated on the development of a Python pipeline to process CSV files, autom
 </details>
 
 <details>
-<summary><b>👥 Crowd Movement Analytics</b> — Sindisei DF Hackathon</summary>
+<summary>👥 Crowd Movement Analytics  — Sindisei DF Hackathon</summary>
 
 <br>
 
@@ -49,7 +49,7 @@ Collaborated on a computer vision solution capable of analyzing movement pattern
 </details>
 
 <details>
-<summary><b>🧠 Competitive Programming</b></summary>
+<summary>🧠 Competitive Programming</summary>
 
 <br>
 
