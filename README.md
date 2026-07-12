@@ -7,7 +7,7 @@
 </p>
 
 
-### 🚀 What I've Been Building
+### What I've Been Building
 
 <details>
 <summary>🚁 Autonomous Drone Vision — EDRA • Computer Vision Team</summary>
