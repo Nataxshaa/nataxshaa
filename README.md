@@ -65,6 +65,6 @@ Solving algorithmic challenges with a focus on data structures, graph algorithms
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,linux,git,opencv,yolo" width="260" />
+<img src="https://skillicons.dev/icons?i=python,cpp,linux,git,opencv" width="260" />
 
 </div>
