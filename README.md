@@ -29,3 +29,11 @@ class Agatha:
 
     motto = "Always building, always learning."
 ```
+
+## Tech Stack
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,docker,linux,git,opencv,postgres,mongodb" />
+
+</div>
