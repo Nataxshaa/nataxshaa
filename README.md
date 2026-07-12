@@ -10,7 +10,7 @@
 ### What I've Been Building
 
 <details>
-<summary>🚁 Autonomous Drone Vision — EDRA • Computer Vision Team</summary>
+<summary>🚁 Autonomous Drone Vision — Equipe de Robótica Aérea da Unb (EDRA) • Computer Vision Team</summary>
 
 <br>
 
