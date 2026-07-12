@@ -2,21 +2,30 @@
   <img src="./assets/banner_wave_cyber.svg" width="100%" />
 </p>
 
+```python
 class Agatha:
 
     role = "Software Engineering Student @ UnB"
 
-    focus = {
+    interests = {
         "Artificial Intelligence",
         "Data Engineering",
+        "Computer Vision",
         "Competitive Programming"
     }
 
     stack = [
         "Python",
         "C++",
-        "SQL"
+        "SQL",
+        "Docker",
+        "Linux"
     ]
 
-    def __str__(self):
-        return "Always building, always learning."
+    currently = (
+        "Building intelligent systems through data, "
+        "machine learning and software engineering."
+    )
+
+    motto = "Always building, always learning."
+```
