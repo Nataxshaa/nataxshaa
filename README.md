@@ -14,14 +14,6 @@ class Agatha:
         "Competitive Programming"
     }
 
-    stack = [
-        "Python",
-        "C++",
-        "SQL",
-        "Docker",
-        "Linux"
-    ]
-
     currently = (
         "Building intelligent systems through data, "
         "machine learning and software engineering."
