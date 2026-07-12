@@ -7,7 +7,7 @@
 </p>
 
 
-## 🚀 What I've Been Building
+### 🚀 What I've Been Building
 
 <details>
 <summary><b>🚁 Autonomous Drone Vision</b> — EDRA • Computer Vision Team</summary>
@@ -61,7 +61,7 @@ Solving algorithmic challenges with a focus on data structures, graph algorithms
 
 </details>
 
-## Tech Stack
+### Tech Stack
 
 <div align="left">
 
