@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/class_me.svg" width="480" />
+  <img src="./assets/class_me.svg" width="560" />
 </p>
 
 ## Tech Stack
