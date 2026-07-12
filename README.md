@@ -3,6 +3,12 @@
 </p>
 
 <p align="center">
+  <a href="www.linkedin.com/in/ágatha-natasha-vieira-7645b5348"><img src="https://img.shields.io/badge/LinkedIn-c8863b?style=for-the-badge&logo=linkedin&logoColor=2b1710&labelColor=2b1710" /></a>
+  <a href="mailto:agathaaa.vieira@gmail.com"><img src="https://img.shields.io/badge/Gmail-7a2e2e?style=for-the-badge&logo=gmail&logoColor=f3e5d8&labelColor=2b1710" /></a>
+  <a href="https://codeforces.com/profile/Nataxshaa"><img src="https://img.shields.io/badge/Codeforces-Nataxshaa-a5502e?style=for-the-badge&logo=codeforces&logoColor=f3e5d8&labelColor=2b1710" /></a>
+</p>
+
+<p align="center">
   <img src="./assets/class_me.svg" width="560" />
 </p>
 
@@ -69,8 +75,4 @@ Solving algorithmic challenges with a focus on data structures, graph algorithms
 
 </div>
 
-<p align="center">
-  <a href="www.linkedin.com/in/ágatha-natasha-vieira-7645b5348"><img src="https://img.shields.io/badge/LinkedIn-c8863b?style=for-the-badge&logo=linkedin&logoColor=2b1710&labelColor=2b1710" /></a>
-  <a href="mailto:agathaaa.vieira@gmail.com"><img src="https://img.shields.io/badge/Gmail-7a2e2e?style=for-the-badge&logo=gmail&logoColor=f3e5d8&labelColor=2b1710" /></a>
-  <a href="https://codeforces.com/profile/Nataxshaa"><img src="https://img.shields.io/badge/Codeforces-Nataxshaa-a5502e?style=for-the-badge&logo=codeforces&logoColor=f3e5d8&labelColor=2b1710" /></a>
-</p>
+
