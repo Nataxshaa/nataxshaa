@@ -6,14 +6,6 @@
   <img src="./assets/class_me.svg" width="560" />
 </p>
 
-## Tech Stack
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,docker,linux,git,opencv,postgres,mongodb" />
-
-</div>
-
 
 ## 🚀 What I've Been Building
 
@@ -68,3 +60,11 @@ Solving algorithmic challenges with a focus on data structures, graph algorithms
 `C++` · `Algorithms` · `Data Structures` · `Problem Solving`
 
 </details>
+
+## Tech Stack
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,docker,linux,git,opencv,postgres,mongodb width=260" />
+
+</div>
