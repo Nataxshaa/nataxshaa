@@ -8,7 +8,7 @@
   <text x="320" y="22" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#8a6a5a">agatha.py</text>
 
   <text x="24" y="70" font-family="'Courier New', monospace" font-size="15">
-    <tspan fill="#c8863b">class</tspan><tspan fill="#f3e5d8"> Agatha:</tspan>
+    <tspan fill="#c8863b">class</tspan><tspan fill="#f3e5d8"> Ágatha:</tspan>
   </text>
   <text x="24" y="98" font-family="'Courier New', monospace" font-size="15">
     <tspan fill="#f3e5d8">    role = </tspan><tspan fill="#d99a5b">"Software Engineering Student @ UnB"</tspan>
